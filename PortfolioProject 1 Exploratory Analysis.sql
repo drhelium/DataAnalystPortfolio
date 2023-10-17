@@ -1,3 +1,5 @@
+-- All the data here has been downloaded from https://ourworldindata.org/covid-deaths and split into two sheets CovidDeaths and CovidVaccinations
+
 Select *
 from PortfolioProject..CovidDeaths
 order by 3,4
